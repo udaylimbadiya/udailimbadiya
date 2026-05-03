@@ -1,4 +1,4 @@
-# udailimbadiya
+# udaylimbadiya
 # 💫 About Me:
 🔭 I’m currently working on Mini Projects<br>🌱 I’m currently learning BACKEND using Node.js and DATABASE using Monogodb<br>
 
